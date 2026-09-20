@@ -1,0 +1,22 @@
+1. Create Database name it as (phonebook).
+
+2. Import file called (phonebook.sql) from your downloded folder.
+
+3. Now you can open your C# project.
+
+4. Open forms folder and go to loginfrm code and edit the following line with your system details.
+   edit server, userid, password, database=phonebook;
+#############################################################################
+#  e.g.("SERVER=localhost; USERID=root; PASSWORD=; DATABASE=phonebook;");   #
+#############################################################################
+
+5. Open forms folder and go to phonebookfrm code and edit the following line with your system details.
+   edit server, userid, password, database=phonebook;
+#############################################################################
+#  e.g.("SERVER=localhost; USERID=root; PASSWORD=; DATABASE=phonebook;");   #
+#############################################################################
+
+6. Now you can debug system. NB:LOGI DETAILS(username==mzwe, password==1234).
+
+7. If you have any problem contact me on my email address:mzwenhlanhla@ssmgroup.co.za /mzwenhlanhla@gmail.com
+   or Facebook: http://www.facebook.com/mzwenhlanhla.dlamini
